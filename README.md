@@ -1,7 +1,15 @@
-## Hi there 👋
+## 안녕하세요 👋
+
+# ME
+- 😄 코딩을배웁니다
+- 🌱 열심히 배우는중...  
+
+# TODO-LIST
+1. 재밌는거 즐기기
+2. 여행다니기
 
 <!--
-**qustjdgns/qustjdgns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SoohorangE/SoohorangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
